@@ -6,7 +6,7 @@
 }
 /*网页背景图片*/
 body{
-    background: url("1.jpg") no-repeat ;
+    background: url("images/1.jpg") no-repeat ;
     background-size: cover;
 }
 /*登陆区主体*/
@@ -23,7 +23,7 @@ body{
 #avatar{
     width: 184px;
     height: 184px;
-    background: url("1.jpg") no-repeat;
+    background: url("images/1.jpg") no-repeat;
     background-size: cover;
     margin: 50px auto;
     border-radius: 50%;
