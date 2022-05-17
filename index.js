@@ -46,6 +46,6 @@ const oauth = async ctx => {
 };
 
 app.use(main);
-app.use(route.get('/oauth/redirect', oauth));
+app.use(route.get('/welcome', oauth));
 
 app.listen(8080);
